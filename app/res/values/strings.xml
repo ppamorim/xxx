@@ -1,0 +1,8 @@
+<resources>
+
+  <!-- Maps ID -->
+  <string name="maps_id" translatable="false">AIzaSyAro-Wg6VUcRxC9xL4WWEYZdQhubtB7npQ</string>
+
+  <string name="app_name">motoqueiros</string>
+
+</resources>
